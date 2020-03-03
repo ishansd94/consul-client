@@ -1,0 +1,7 @@
+
+#Package managers
+vendor
+Gopkg.lock
+
+#IDE
+.idea
