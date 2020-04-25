@@ -1,4 +1,4 @@
-package consul_client
+package consul_sds
 
 import (
 	"errors"
